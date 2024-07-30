@@ -1,2 +1,7 @@
 boto3
 pillow
+
+Setup Instructions
+Upload the Lambda function code to AWS Lambda.
+Set up an S3 bucket with an input and output folder.
+Create a trigger for the Lambda function on the input folder.
